@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "605869084639",
+    "project_id": "bekurir2",
+    "storage_bucket": "bekurir2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605869084639:android:90eb98753f1389b3a4fe6a",
+        "android_client_info": {
+          "package_name": "com.bekurir.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605869084639-ttt58pt39mmh43uabs8s6th817o7vr8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bekurir.app",
+            "certificate_hash": "1cc568be741655eed476101b2390940234f64757"
+          }
+        },
+        {
+          "client_id": "605869084639-u58k3psn29fraou86i8jc0fnfh14bpo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bekurir.app",
+            "certificate_hash": "6e83dd852a370b4d49849e337a38ce5ab15b76d0"
+          }
+        },
+        {
+          "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPVcu21T8c8p6y-rlhYH6B1QiqHLsfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605869084639:android:3ea7f0291420de8da4fe6a",
+        "android_client_info": {
+          "package_name": "com.bekurir.biz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPVcu21T8c8p6y-rlhYH6B1QiqHLsfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605869084639:android:8a6586911e3f3a8da4fe6a",
+        "android_client_info": {
+          "package_name": "com.bekurir.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPVcu21T8c8p6y-rlhYH6B1QiqHLsfdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605869084639-hqmhapimt3a3reum96opp3jljqqfrgvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
